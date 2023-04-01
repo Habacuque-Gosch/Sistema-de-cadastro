@@ -6,6 +6,6 @@ para rodar esse projeto em sua máquina, por favor baixem o Banco de dados
 
 (DataUser)
 
-Logo após ter baixado, baixe a pasta de midía do projeto
+Logo após ter baixado, baixe a pasta de mídia do projeto
 
 (fotos)
