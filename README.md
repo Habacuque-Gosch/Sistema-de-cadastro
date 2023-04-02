@@ -1,6 +1,6 @@
 <h1>sistema de cadastro</h1>
 
-<h2>Bem vindo(a) meu repositório</h2>
+<h2>Bem vindo(ao) meu repositório</h2>
 
 >Status do projeto: Em Desenvolvimento
 <div>
