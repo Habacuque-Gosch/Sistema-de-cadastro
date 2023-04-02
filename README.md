@@ -10,10 +10,9 @@
 
 para rodar esse projeto em sua máquina, favor baixar o Banco de dados
 
-'''
+
 Banco de dados: DataUser
 
 Logo após ter baixado, baixe a pasta de mídia do projeto
 
-'''
 Pasta: fotos
