@@ -1,4 +1,4 @@
-<h1>sistema de cadastro</h1>
+<h1>Sistema de cadastro</h1>
 
 <h2>Bem vindo(ao) meu repositório</h2>
 
