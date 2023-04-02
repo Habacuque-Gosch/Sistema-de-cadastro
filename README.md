@@ -1,11 +1,17 @@
 <h1>sistema de cadastro</h1>
 
->Status do projeto: Em Desenvolvimento
+<h2>Bem vindo(a) meu repositório</h2>
 
-para rodar esse projeto em sua máquina, por favor baixem o Banco de dados
+>Status do projeto: Em Desenvolvimento
+<div>
+  <h1 style="text-align:left;">Minhas redes</h1>
+  <li style="text-align:center;"><a href="https://www.linkedin.com/in/habacuque-gosch-de-oliveira-993b45264/">Linkedin</a></li>
+</div>
+
+para rodar esse projeto em sua máquina, favor baixar o Banco de dados
 
 (DataUser)
 
 Logo após ter baixado, baixe a pasta de mídia do projeto
 
-(fotos)
+Pasta: fotos
