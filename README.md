@@ -6,6 +6,7 @@
 <div>
   <h1 style="text-align:left;">Minhas redes</h1>
   <li style="text-align:center;"><a href="https://www.linkedin.com/in/habacuque-gosch-de-oliveira-993b45264/">Linkedin</a></li>
+<li style="text-align:center;"><a href="https://www.instagram.com/gosch_tlgd"/>Instagram</a></li>
 </div>
 
 <h2>Introdução</h2>
