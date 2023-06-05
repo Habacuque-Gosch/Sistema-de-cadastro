@@ -12,7 +12,7 @@
 <li style="text-align:center;"><a href="https://www.instagram.com/gosch_tlgd"/>Instagram</a></li>
 </div>
 
-<h2>Introdução</h2>
+<h2>Guia</h2>
 
 para rodar esse projeto em sua máquina, favor baixar o Banco de dados
 
