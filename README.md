@@ -1,5 +1,5 @@
 <div align='center'>
-    <h1>Sistema de cadastroh1>
+    <h1>Sistema de cadastro<h1>
     <img src='./demo.gif' title='demo tela de login' width='400px' />
 </div>
 
