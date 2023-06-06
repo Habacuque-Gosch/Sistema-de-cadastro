@@ -6,18 +6,14 @@
 
 ## Descrição do projeto
  <p align="justify">
-esse projeto trata-se de um jogo simples, porem divertido e é claro, estamos falando do classico pacman
+este projeto é uma GUI (interface gráfica do usuário) com finalidade de logar/cadastrar o usuário e esse projeto tem integração a um banco de dados que armazena as informações dos usuários cadastrados e esse projeto foi desenvolvido somente utilizando python.
 <div>
     
-## Estados do game
+## Funcionalidades
 
-:heavy_check_mark: `Estado 1:` Rodando
+:heavy_check_mark: `Funcionalidade 1:` criar um cadastro
 
-:heavy_check_mark: `Estado 2:` Pause
-
-:heavy_check_mark: `Estado 3:` Game Over
-
-:heavy_check_mark: `Estado 4:` winner
+:heavy_check_mark: `Funcionalidade 2:` Logar
         
 <video width="420" height="340" controls="controls">
     <source src="./filme.mp4" type="video/mp4">
