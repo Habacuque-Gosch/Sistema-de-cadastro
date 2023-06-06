@@ -6,7 +6,7 @@
 
 ## Descrição do projeto
  <p align="justify">
-este projeto é uma GUI (interface gráfica do usuário) com finalidade de logar/cadastrar o usuário e esse projeto tem integração a um banco de dados que armazena as informações dos usuários cadastrados e esse projeto foi desenvolvido somente utilizando python.
+este projeto é uma GUI (interface gráfica do usuário) com a finalidade de logar/cadastrar o usuário que haja uma interação entre o usuário e o código por trás dessa interface gráfica e esse projeto tem integração a um banco de dados que armazena as informações dos usuários cadastrados e esse projeto foi desenvolvido somente utilizando python.
 <div>
     
 ## Funcionalidades
