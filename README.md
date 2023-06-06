@@ -28,10 +28,13 @@ este projeto é uma GUI (interface gráfica do usuário) com a finalidade de log
 
 <a href="https://www.python.org" target="_blank"> <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg" alt="Python" width="40" height="40"/> </a> 
     
-<h2 style="text-align:left;">Redes Socias:</h2>
-  <li style="text-align:center;"><a href="https://www.linkedin.com/in/habacuque-gosch-de-oliveira-993b45264/">Linkedin</a></li>
-<li style="text-align:center;"><a href="https://www.instagram.com/gosch_tlgd"/>Instagram</a></li>
-</div>     
+### Você também me encontra em:
+&nbsp;<a href="https://www.linkedin.com/in/habacuque-gosch-de-oliveira-993b45264/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+&nbsp;<a href="https://www.instagram.com/gosch_tlgd">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>&nbsp;
  
 <h2>Guia</h2>
 
