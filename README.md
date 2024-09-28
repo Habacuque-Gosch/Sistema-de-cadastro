@@ -2,7 +2,7 @@
 
 <h2>Bem vindo(ao) meu repositório</h2>
 
->Status do projeto: Em Desenvolvimento
+>Status do projeto: Concluído
 
 ## Descrição do projeto
  <p align="justify">
